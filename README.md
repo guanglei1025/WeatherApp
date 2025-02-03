@@ -12,6 +12,10 @@ Weather application built with **SwiftUI** and **SwiftData**. This app fetches r
 
 ## Screenshots
 
+|Dashboard|Search Result|
+|-|-|
+|![Screenshot 2025-02-02 at 7 38 13 PM](https://github.com/user-attachments/assets/7fc4065a-d3b0-45be-93d6-d8b8e3cb6b7c)|![Screenshot 2025-02-02 at 7 38 20 PM](https://github.com/user-attachments/assets/29116302-d62d-4fac-bda7-4c795e806779)|
+
 
 
 ## Tech Stack
